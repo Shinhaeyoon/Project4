@@ -1,7 +1,7 @@
 
 
 **Goal -  Leverage Machine Learning to predict Diabetes Risk**
-Link to presentation slides: https://docs.google.com/presentation/d/1eVz6_SZBXEXu6ttVq3CUnKso_gyeXuqG_abdFgvSwhw/edit
+- Link to presentation slides: https://docs.google.com/presentation/d/1eVz6_SZBXEXu6ttVq3CUnKso_gyeXuqG_abdFgvSwhw/edit
 
 **Data Sourcing**
 
