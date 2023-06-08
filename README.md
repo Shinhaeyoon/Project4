@@ -13,7 +13,5 @@
 * Machine Learning Models:
   - Neural Network Model
   - Decision Tree Classifier
-
-
 * Flask app:
   -
