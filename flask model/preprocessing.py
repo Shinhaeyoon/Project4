@@ -29,7 +29,7 @@ for col in category_col:
     mapping_dict[col] = le_name_mapping
 print(mapping_dict)
 
-#droping redundant columns
+
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
  
@@ -43,7 +43,5 @@ y_pred_gini = dt_clf_gini.predict(X_test)
 
 print ("Desicion Tree using Gini Index\nAccuracy is ", accuracy_score(y_test,y_pred_gini)*100 )
 
-#creating and training a model
-#serializing our model to a file called model.pkl
 import pickle
 pickle.dump(dt_clf_gini, open("model.pkl","wb"))
